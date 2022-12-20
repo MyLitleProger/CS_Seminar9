@@ -1,0 +1,15 @@
+C:\Users\max16\Documents\Example\CS_Seminar9\bin\Debug\net6.0\CS_Seminar9.exe
+C:\Users\max16\Documents\Example\CS_Seminar9\bin\Debug\net6.0\CS_Seminar9.deps.json
+C:\Users\max16\Documents\Example\CS_Seminar9\bin\Debug\net6.0\CS_Seminar9.runtimeconfig.json
+C:\Users\max16\Documents\Example\CS_Seminar9\bin\Debug\net6.0\CS_Seminar9.dll
+C:\Users\max16\Documents\Example\CS_Seminar9\bin\Debug\net6.0\CS_Seminar9.pdb
+C:\Users\max16\Documents\Example\CS_Seminar9\obj\Debug\net6.0\CS_Seminar9.csproj.AssemblyReference.cache
+C:\Users\max16\Documents\Example\CS_Seminar9\obj\Debug\net6.0\CS_Seminar9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max16\Documents\Example\CS_Seminar9\obj\Debug\net6.0\CS_Seminar9.AssemblyInfoInputs.cache
+C:\Users\max16\Documents\Example\CS_Seminar9\obj\Debug\net6.0\CS_Seminar9.AssemblyInfo.cs
+C:\Users\max16\Documents\Example\CS_Seminar9\obj\Debug\net6.0\CS_Seminar9.csproj.CoreCompileInputs.cache
+C:\Users\max16\Documents\Example\CS_Seminar9\obj\Debug\net6.0\CS_Seminar9.dll
+C:\Users\max16\Documents\Example\CS_Seminar9\obj\Debug\net6.0\refint\CS_Seminar9.dll
+C:\Users\max16\Documents\Example\CS_Seminar9\obj\Debug\net6.0\CS_Seminar9.pdb
+C:\Users\max16\Documents\Example\CS_Seminar9\obj\Debug\net6.0\CS_Seminar9.genruntimeconfig.cache
+C:\Users\max16\Documents\Example\CS_Seminar9\obj\Debug\net6.0\ref\CS_Seminar9.dll
